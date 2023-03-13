@@ -1,4 +1,4 @@
-# UltimateMessageSpammer
+# MessageSpammer
 Simulates writing words, genereta a list of random word, create a list of a word or a phrase
 
 Used Libraries:
